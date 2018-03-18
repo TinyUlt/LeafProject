@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/u3dfish/!svn/ver/845/build_protobuf/proto2cs
+END
+proto2cs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/proto2cs.bat
+END
+common.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/common.xslt
+END
+protogen.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protogen.exe.config
+END
+protobuf-net.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protobuf-net.xml
+END
+protoc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protoc.exe
+END
+protobuf-net.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protobuf-net.pdb
+END
+xml.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/xml.xslt
+END
+protobuf-net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protobuf-net.dll
+END
+vb.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/vb.xslt
+END
+protoc++.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protoc++.bat
+END
+protogen.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protogen.pdb
+END
+protoc-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protoc-license.txt
+END
+proto2cpp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/proto2cpp.txt
+END
+proto2cs.bak
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/proto2cs.bak
+END
+csharp.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/csharp.xslt
+END
+protogen.exe
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/u3dfish/!svn/ver/822/build_protobuf/proto2cs/protogen.exe
+END

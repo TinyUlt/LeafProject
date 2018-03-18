@@ -1,0 +1,94 @@
+syntax = "proto3";
+package msg;
+
+enum MessageId {
+  
+  _Hello = 0;
+  _UserLoginRequest = 1;
+ 
+}
+message GameUserData{
+
+}
+//0
+message Hello {
+  string name = 1;
+}
+
+//1登录请求
+message UserLoginRequest{
+
+  string UserName=1;
+  string Password=2;
+}
+//2登录回复
+message UserLoginResponse{
+
+  int32 Resultcode=1;//成功0, 失败1
+  string NotifyMessage=2;//说明
+}
+//3注销请求
+message UserLogoutRequest{
+
+}
+//4注销回复
+message UserLogoutResponse{
+
+    int32 Resultcode=1;//成功0, 失败1
+    string NotifyMessage=2;//说明
+}
+//5
+message UserRegisterRequest{
+  string UserName=1;
+  string Password=2;
+}
+message UserRegisterResponse{
+    int32 Resultcode=1;//成功0, 失败1
+    string NotifyMessage=2;//说明
+}
+//100进入房间请求
+message UserEnterRoomRequest{
+
+  int32 RoomId=1;//房间id
+}
+//101进入房间回复
+message UserEnterRoomResponse{
+
+  int32 Resultcode=1;//成功0, 失败1
+  string NotifyMessage=2;//说明
+  int32 TableId=3;
+  int32 ChairId=4;
+}
+//102退出房间请求
+message UserOutOfRoomRequest{
+
+}
+//103退出房间回复
+message UserOutOfRoomResponse{
+
+  int32 Resultcode=1;//成功0, 失败1
+  string NotifyMessage=2;//说明
+}
+//104用户入座
+message OthersEnterTable{
+
+  int32 ChairId=1;
+  string NickName=2;
+}
+//105用户离座
+message OthersLeaveTable{
+
+  int32 ChairId=1;
+  string NickName=2;
+}
+//201客户端加载成功
+message UserFinishesLoadingRequest{
+
+
+}
+//202服务器反馈客户端捕鱼游戏操作错误
+message UserMessageErrorResponse{
+
+  int32 Resultcode=1;
+  string NotifyMessage=2;
+}
