@@ -1,0 +1,119 @@
+10
+
+dir
+1
+https://tuhao@114.215.113.201/svn/gameserver/src/sky/db/mgo/harness/daemons
+https://tuhao@114.215.113.201/svn/gameserver
+
+
+
+2018-03-16T07:56:08.484375Z
+1
+laowu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76005763-f981-d944-bb56-095040a681c2
+
+cfg1
+dir
+
+cfg2
+dir
+
+cfg3
+dir
+
+s1
+dir
+
+s2
+dir
+
+s3
+dir
+
+db1
+dir
+
+rs1a
+dir
+
+.env
+file
+
+
+
+
+2018-03-18T08:29:11.000000Z
+b3d132bcd738afbd7e83b28b7a92b96f
+2018-03-16T07:56:08.484375Z
+1
+laowu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1183
+
+db2
+dir
+
+rs1b
+dir
+
+rs2a
+dir
+
+db3
+dir
+
+rs1c
+dir
+
+rs2b
+dir
+
+rs3a
+dir
+
+rs3b
+dir
+
+rs2c
+dir
+
+rs4a
+dir
+
+rs3c
+dir
+

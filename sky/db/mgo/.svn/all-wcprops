@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo
+END
+gridfs_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/gridfs_test.go
+END
+gridfs.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/gridfs.go
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/LICENSE
+END
+helper.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/helper.go
+END
+export_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/export_test.go
+END
+cluster_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/cluster_test.go
+END
+log.go
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/log.go
+END
+cluster.go
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/cluster.go
+END
+session_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/session_test.go
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/.travis.yml
+END
+syscall_windows_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/syscall_windows_test.go
+END
+session.go
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/session.go
+END
+queue_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/queue_test.go
+END
+saslimpl.go
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/saslimpl.go
+END
+queue.go
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/queue.go
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/README.md
+END
+suite_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/suite_test.go
+END
+socket.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/socket.go
+END
+bulk_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bulk_test.go
+END
+bulk.go
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bulk.go
+END
+stats.go
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/stats.go
+END
+auth_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/auth_test.go
+END
+saslstub.go
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/saslstub.go
+END
+auth.go
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/auth.go
+END
+raceoff.go
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/raceoff.go
+END
+doc.go
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/doc.go
+END
+server.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/server.go
+END
+raceon.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/raceon.go
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/Makefile
+END
+syscall_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/syscall_test.go
+END

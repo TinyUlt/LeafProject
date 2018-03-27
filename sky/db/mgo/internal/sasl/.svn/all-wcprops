@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl
+END
+sasl_windows.go
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sasl_windows.go
+END
+sasl_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sasl_windows.h
+END
+sasl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sasl.c
+END
+sasl.go
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sasl.go
+END
+sspi_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sspi_windows.c
+END
+sasl_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sasl_windows.c
+END
+sspi_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/internal/sasl/sspi_windows.h
+END

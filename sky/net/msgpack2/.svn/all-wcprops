@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2
+END
+decode_number.go
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/decode_number.go
+END
+encode.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/encode.go
+END
+map.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/map.go
+END
+typeinfo.go
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/typeinfo.go
+END
+tags.go
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/tags.go
+END
+time.go
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/time.go
+END
+slice.go
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/slice.go
+END
+ext.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/ext.go
+END
+decode.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/decode.go
+END
+encode_number.go
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/encode_number.go
+END
+msgpack.go
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gameserver/!svn/ver/1/src/sky/net/msgpack2/msgpack.go
+END

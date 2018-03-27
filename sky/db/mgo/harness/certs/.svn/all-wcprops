@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs
+END
+client.req
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/client.req
+END
+client.crt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/client.crt
+END
+client.key
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/client.key
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/server.pem
+END
+server.crt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/server.crt
+END
+server.key
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/server.key
+END
+client.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/certs/client.pem
+END

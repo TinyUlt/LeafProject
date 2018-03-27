@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson
+END
+decimal_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/decimal_test.go
+END
+encode.go
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/encode.go
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/LICENSE
+END
+decimal.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/decimal.go
+END
+bson_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/bson_test.go
+END
+bson.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/bson.go
+END
+decode.go
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/decode.go
+END
+specdata_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/specdata_test.go
+END
+json_test.go
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/json_test.go
+END
+json.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/bson/json.go
+END

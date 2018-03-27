@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/daemons
+END
+.env
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gameserver/!svn/ver/1/src/sky/db/mgo/harness/daemons/.env
+END
